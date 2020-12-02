@@ -1,0 +1,13 @@
+{
+  "name": "copy-board",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "electron": "^11.0.3",
+    "electron-clipboard-watcher": "^1.0.1"
+  }
+}
